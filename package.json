@@ -1,0 +1,14 @@
+{
+  "name": "test-mock-api-call-silvio",
+  "version": "1.0.1",
+  "description": "Test for readme.io",
+  "main": "src/test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
